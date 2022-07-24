@@ -1,3 +1,4 @@
+package Searching_Algorithms.Linear_Search;
 // Given an array arr[] of n elements, 
 // the task is to write a function to search a given element x in arr[].
 
