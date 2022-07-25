@@ -14,7 +14,7 @@
 //Why search from both sides? -  more faster to find the value since 
 // 2 if statements are executed in a single loop
 
-package Searching_Algorithms.Linear_Search;
+
 
 public class Linear_Search_Closing_Both_Sides
 {

@@ -1,4 +1,3 @@
-package Searching_Algorithms.Linear_Search;
 import java.io.*;
 
 public class Linear_Search_Recursive_Approach 
