@@ -77,3 +77,7 @@ public class BinarySearchRecursiveApproach
         }
     }
 }
+/*
+ *  Time Complexity: O(log n)
+ *  Auxiliary Space : O(log n)
+ */
